@@ -95,7 +95,8 @@
 ![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/qoph4w.jpg"![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/872989fb-8e07-424b-9290-681b0fa2eb9a)
+" alt="02" border="0" /></a>                     
     
     <h1 align="center">HAPPY HOLIDAY</h1>
   </a>
