@@ -91,8 +91,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
    
-<a href="https://files.catbox.moe/gopj4w.jpg"![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/18bc9d51-1565-40a3-9ba5-7505c5ea8210)
-" alt="02"border="0" /></a>
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
+
 
                   
     <h1 align="center">HAPPY FESTIVE SEASON</h1>
