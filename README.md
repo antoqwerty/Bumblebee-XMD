@@ -91,9 +91,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
    
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/a5344ce8-868a-412c-9a4d-dae582f6574d)
-" alt="02" border="0" /></a>  
 
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/b5d5d3ae-3abf-4ce9-a41f-dcacf1bec33d)
+" alt="02" border="0" /></a>                     
     <h1 align="center">HAPPY HOLIDAY</h1>
   </a>
 
