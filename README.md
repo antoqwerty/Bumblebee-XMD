@@ -1,3 +1,4 @@
+![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/3492e82d-a88a-450f-aff9-562a01d1c72e)
 
 
 <a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
@@ -89,7 +90,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>   ![7b04d442119d1dfa3b7980abf5179452 (1) (1)](https://github.com/user-attachments/assets/6f029a20-75ed-4c47-8537-ce1fdd975d92)
+                  
     <h1 align="center">HAPPY FESTIVE SEASON</h1>
   </a>
 
