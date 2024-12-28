@@ -92,8 +92,8 @@
 
    
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/b5d5d3ae-3abf-4ce9-a41f-dcacf1bec33d)
-" alt="02" border="0" /></a>                     
+![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
+                     
     <h1 align="center">HAPPY HOLIDAY</h1>
   </a>
 
