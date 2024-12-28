@@ -92,9 +92,8 @@
 
    
 <a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
-
-
-                  
-    <h1 align="center">HAPPY FESTIVE SEASON</h1>
+    <h1 align="center">HAPPY HOLIDAY</h1>
   </a>
+
+
 
