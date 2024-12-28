@@ -1,40 +1,40 @@
 
 
-<a href="https://vm.tiktok.com/ZMkkoHt9n/"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">BUMBLEE-BEE</h1>
   </a>
 
 
-<a><img src='https://vm.tiktok.com/ZMkkoHt9n/'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a><img src='https://vm.tiktok.com/ZMkkoHt9n/'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
+## HERE IS THE PROGRESS FOR BUMBLEE-BEE 
 
 
 <p align="center">
 <a href="https://github.com/Black-Tappy/followers"><img title="Black-Tappy-Followers" src="https://img.shields.io/github/followers/Black-Tappy?color=blue&style=flat-square"></a>
     
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Bumble-Bee-X?color=blue&style=flat-square"></a>
+<a href="https://github.com/Black-Tappy/Bumblee-Bee/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Black-Tappy?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Black-Tappy/Bumble-Bee/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblee-Bee?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Black-Tappy/Bumblee-Bee/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblee-Bee?color=yellow&style=flat-square"></a>
 
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblee-Bee?style=flat-square&color=pink"></a>
+<a href="https://github.com/Black-Tappy/Bumblee-Bee/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblee-Bee-X?style=flat-square&color=pink"></a>
 
-<a href="https://github.com/Black-Tappy/Bumble-Bee/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Black-Tappy/Bumblee-Bee/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Bumble-Bee }/count.svg" alt="carl24tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Black-Tappy}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Bumblee-Bee}/count.svg" alt="Black-Tappy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Black-Tappy}/count.svg" /></p>
 
 
 
 
 
 
-## HOW TO GET BUMBLEE-BEE 
+## HOW TO GET BUMBLE-BEE 
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -45,7 +45,7 @@
    <a href="https://github.com/Black-Tappy/Bumblee-Bee/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
-<a><img src='https://vm.tiktok.com/ZMkkoHt9n/'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
  
@@ -53,10 +53,10 @@
  
 
 
-  <a href="https://BumBlee-Bee-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://Bumblee-Bee-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
-  <a><img src='https://vm.tiktok.com/ZMkkoHt9n/'/></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
@@ -77,7 +77,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-<a><img src='https://vm.tiktok.com/ZMkkoHt9n/'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -89,7 +89,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://vm.tiktok.com/ZMkkoHt9n/"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">HAPPY FESTIVE SEASON</h1>
   </a>
-  
+
