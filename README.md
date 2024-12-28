@@ -93,8 +93,6 @@
    
 
 ![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
-
-                     
     <h1 align="center">HAPPY FESTIVE SEASON</h1>
   </a>                    
     
