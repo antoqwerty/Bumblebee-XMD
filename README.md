@@ -3,7 +3,7 @@
 
 <a href="https://i.imgur.com/5zda1uw.jpeg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/9b608c05-46f8-4987-9802-b1635f8369aa)
 " /></a>                     
-    <h1 align="center">BUMBLEE-BEE</h1>
+    <h1 align="center">BUMBLE-BEE</h1>
   </a>
 
 
@@ -93,6 +93,6 @@
    
 
 ![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
-    <h1 align="center">HAPPY FESTIVE SEASON</h1>
+    <h1 align="center">BUMBLEBEE-XMD</h1>
   </a>                    
     
