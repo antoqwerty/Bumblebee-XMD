@@ -44,7 +44,7 @@
 
   
    
-   <a href="https://github.com/Black-Tappy/Bumblee-Bee/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Black-Tappy/Bumblebee-XMD"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -55,7 +55,7 @@
  
 
 
-  <a href="https://Bumblee-Bee-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://bumblebee-pair-code-yqp2.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
