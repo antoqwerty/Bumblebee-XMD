@@ -55,7 +55,7 @@ function _0x4925() {
         'uezIn',
         '80876Mmzsmw',
         '12kzazGE',
-        'D\x20SPEED',
+        '\x20SPEED',
         'rk/dl/Func',
         '353512ESTCIu',
         'bDeoL',
