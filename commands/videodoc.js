@@ -1,92 +1,101 @@
-
 const { zokou } = require("../framework/zokou");
-const axios = require('axios');
-const ytSearch = require('yt-search');
+const axios = require("axios");
 
-// Define the command with aliases
-zokou({
-  nomCom: "videodoc",
-  aliases: ["musicvideodoc", "ytmp4doc", "videodoc", "mp4doc"],
-  categorie: "Search",
-  reaction: "📺"
-}, async (dest, zk, commandOptions) => {
-  const { arg, ms, repondre } = commandOptions;
+zokou({ nomCom: "videodl", categorie: "search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+  const text = arg.join(" ");
 
-  // Check if a query is provided
-  if (!arg[0]) {
-    return repondre("Please provide a video document name.");
+  if (!text) {
+    repondre("Please provide a search query.");
+    return;
   }
 
-  const query = arg.join(" ");
-
   try {
-    // Perform a YouTube search based on the query
-    const searchResults = await ytSearch(query);
+    // Message content
+    const messageText = `Reply with below numbers to generate *${text}* logo
 
-    // Check if any videos were found
-    if (!searchResults || !searchResults.videos.length) {
-      return repondre('No video document found for the specified query.');
-    }
+1 ➠ sweet love 💕😘
+2 ➠ lightning pubg
+3 ➠ intro video 📷
+4 ➠ tiger 🐯 video logo
 
-    const firstVideo = searchResults.videos[0];
-    const videoUrl = firstVideo.url;
+*Enjoy 😂🔪*`;
 
-    // Function to get download data from APIs
-    const getDownloadData = async (url) => {
-      try {
-        const response = await axios.get(url);
-        return response.data;
-      } catch (error) {
-        console.error('Error fetching data from API:', error);
-        return { success: false };
-      }
-    };
-
-    // List of APIs to try
-    const apis = [
-      `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
-      `https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
-      `https://www.dark-yasiya-api.site/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
-      `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
-      `https://api.dreaded.site/api/ytdl/audio?url=${encodeURIComponent(videoUrl)}`
-    ];
-
-    let downloadData;
-    for (const api of apis) {
-      downloadData = await getDownloadData(api);
-      if (downloadData && downloadData.success) break;
-    }
-
-    // Check if a valid download URL was found
-    if (!downloadData || !downloadData.success) {
-      return repondre('Failed to retrieve download URL from all sources. Please try again later.');
-    }
-
-    const downloadUrl = downloadData.result.download_url;
-    const videoDetails = downloadData.result;
-
-    // Prepare the message payload with external ad details
-    const messagePayload = {
-      document: { url: downloadUrl },
-      mimetype: 'video/mp4',
-      contextInfo: {
-        externalAdReply: {
-          title: videoDetails.title,
-          body: videoDetails.title,
-          mediaType: 1,
-          sourceUrl: 'https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E',
-          thumbnailUrl: firstVideo.thumbnail,
-          renderLargerThumbnail: false,
-          showAdAttribution: true,
-        },
+    const contextInfo = {
+      mentionedJid: [ms.sender], // Mention the sender
+      externalAdReply: {
+        title: "𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿",
+        body: "Regards, blacktappy",
+        thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+        mediaType: 1,
+        renderLargerThumbnail: true,
       },
     };
 
-    // Send the download link to the user
-    await zk.sendMessage(dest, messagePayload, { quoted: ms });
+    const messageToSend = {
+      text: messageText,
+      contextInfo,
+    };
 
+    // Send the message
+    const sentMessage = await zk.sendMessage(dest, messageToSend, { quoted: ms });
+
+    // Event listener for message responses
+    zk.ev.on('messages.upsert', async (update) => {
+      const message = update.messages[0];
+      if (!message.message || !message.message.extendedTextMessage) {
+        return;
+      }
+
+      const responseText = message.message.extendedTextMessage.text.trim();
+      if (message.message.extendedTextMessage.contextInfo && message.message.extendedTextMessage.contextInfo.stanzaId === sentMessage.key.id) {
+        // Handle different logo choices based on number
+        let logoUrl;
+        switch (responseText) {
+          case '1':
+            logoUrl = await fetchLogoUrl("https://en.ephoto360.com/create-sweet-love-video-cards-online-734.html", text);
+            break;
+          case '2':
+            logoUrl = await fetchLogoUrl("https://en.ephoto360.com/lightning-pubg-video-logo-maker-online-615.html", text);
+            break;
+          case '3':
+            logoUrl = await fetchLogoUrl("https://en.ephoto360.com/free-logo-intro-video-maker-online-558.html", text);
+            break;
+          case '4':
+            logoUrl = await fetchLogoUrl("https://en.ephoto360.com/create-digital-tiger-logo-video-effect-723.html", text);
+            break;
+          
+          // Add additional cases as required
+          default:
+            return repondre("*_Invalid number. Please reply with a valid number._*");
+        }
+
+        // Send the logo if URL is found
+        if (logoUrl) {
+          await zk.sendMessage(dest, {
+            video: { url: logoUrl },
+            mimetype: "video/mp4",
+            caption: `*Downloaded by 𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿*`,
+          }, { quoted: ms });
+        }
+      }
+    });
   } catch (error) {
-    console.error('Error during download process:', error);
-    return repondre(`Download failed due to an error: ${error.message || error}`);
+    console.log(error);
+    repondre(`Error: ${error}`);
   }
 });
+
+// Function to fetch the logo URL using axios
+const fetchLogoUrl = async (url, name) => {
+  try {
+    const response = await axios.get(`https://api-pink-venom.vercel.app/api/logo`, {
+      params: { url, name }
+    });
+    return response.data.result.download_url; // Ensure this is the correct path for the download URL in the API response
+  } catch (error) {
+    console.error("Error fetching logo:", error);
+    return null;
+  }
+};
