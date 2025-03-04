@@ -23,5 +23,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "bumblebee.js"]
+CMD ["npm", "run" , "popkid.js"]
 
