@@ -61,12 +61,12 @@
   "name": "popkid-md",
   "version": "2.0.0",
   "description": "",
-  "main": "bumblebee.js",
+  "main": "popkid.js",
   "scripts": {
-    "test": "node bumblebee.js",
-    "s": "node bumblebee.js",
-    "toshtech": "pm2 start bumblebee.js --attach",
-    "toshtech": "pm2 start bumblebee.js --attach",
+    "test": "node popkid.js",
+    "s": "node popkid.js",
+    "toshtech": "pm2 start popkid.js --attach",
+    "toshtech": "pm2 start popkid.js --attach",
     "c": "tsc"
   },
   "keywords": [
