@@ -831,10 +831,10 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("Bumblebee XMD is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Bumblebee-XMD Commands ...\n");
-                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/commands").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/commandes/" + fichier);
+                            require(__dirname + "/commands/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
