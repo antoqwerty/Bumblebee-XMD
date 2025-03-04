@@ -2,23 +2,23 @@
   "name": "Bmw-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "bumblebee.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "test": "node bumblebee.js",
+    "s": "node bumblebee.js",
+    "toshtech": "pm2 start bumblebee.js --attach",
+    "toshtech": "pm2 start bumblebee.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "popkid-md",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "popkid-md-boy"
   ],
-  "author": "Tosh205",
+  "author": "popkidbase",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
