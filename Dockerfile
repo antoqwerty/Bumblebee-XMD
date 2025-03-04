@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "casey.js"]
+CMD ["npm", "run" , "bumblebee.js"]
 
