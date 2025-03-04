@@ -90,7 +90,7 @@ function _0x4925() {
         'To\x20check\x20r',
         'sdsWy',
         'toFixed',
-        'D\x20is:\x20',
+        '\x20is:\x20',
         'DDxeJ',
         'YLmEC',
         'oldyc',
