@@ -168,7 +168,7 @@ zokou({ nomCom: "menu5", aliases: ["liste", "helplist", "commandlist"], categori
         commandsList += "\n╰┈┈┈┈┈┈┈┈┈┈┈⊷\n";
     }
 
-    commandsList += readMore + "\nworld of caseyrhodes we are happy\n";
+    commandsList += readMore + "\nworld of bumblebee we are happy\n";
 
     try {
         const senderName = message.sender || message.from;
