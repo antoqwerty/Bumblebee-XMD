@@ -22,7 +22,7 @@ zokou({ nomCom: "menu2", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Kenya").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *BUMBLEBEE ✨XMD* ═══\n\n";
+    let menuMsg = "  ═══ *♻️BUMBLEBEE XMD♻️* ═══\n\n";
     /*menuMsg+=`
     
     
