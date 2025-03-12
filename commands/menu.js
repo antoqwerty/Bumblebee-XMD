@@ -28,7 +28,7 @@ const runtime = function (seconds) {
 // Function to fetch GitHub repo data
 const fetchGitHubStats = async () => {
     try {
-        const repo = 'Popkiddevs/POPKID-XTECH'; // Replace with your repo
+        const repo = 'Black-Tappy/Bumblebee-XMD'; // Replace with your repo
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const forks = response.data.forks_count;
         const stars = response.data.stargazers_count;
@@ -136,7 +136,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
                 externalAdReply: {
                     title: "𝐁𝐮𝐦𝐛𝐥𝐞𝐛𝐞𝐞-𝐗𝐌𝐃",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-                    thumbnailUrl: "https://files.catbox.moe/kjt43f.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/ybilez.mp4",
                     sourceUrl: 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10',
                     mediaType: 1,
                     renderLargerThumbnail: true
