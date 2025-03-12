@@ -8,7 +8,7 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/yedfbr.jpg"; // Full image URL
+    const fullImageUrl = "https://files.catbox.moe/kjt43f.jpg"; // Full image URL
     const smallThumbnailUrl = "https://files.catbox.moe/yedfbr.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/n48x8j.mp3"; // Voice note URL
     const sourceUrl = "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10"; // Channel link
@@ -55,7 +55,7 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/yedfbr.jpg"; // Full image URL
+    const fullImageUrl = "https://files.catbox.moe/kjt43f.jpg"; // Full image URL
     const smallThumbnailUrl = "https://files.catbox.moe/yedfbr.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/p6p605.m4a"; // Voice note URL
     const sourceUrl = "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10"; // Channel link
